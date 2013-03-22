@@ -3,6 +3,7 @@
 	<name>TankEditor</name>
 	<comment></comment>
 	<projects>
+		<project>(pl.shockah) EasySlick</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
